@@ -18,7 +18,7 @@
 # 🇬🇧 ENGLISH
 
 ## Hi there, I’m Zoroki110 👋
-**Jeune développeur C/C++ & explorateur Web3**  
+**Young Developer passionate about high-performance C/C++ & Web3**  
 ### About Me
 I’m currently wrapping up my journey at École 42 (Piscine started on Sep 2, 2024), mastering C and C++, and diving into blockchain (Bittensor subnets on the TAO ecosystem). Passionate about high-performance code and Web3 innovations.
 
@@ -63,7 +63,7 @@ I’m currently wrapping up my journey at École 42 (Piscine started on Sep 2, 2
 # 🇫🇷 FRANÇAIS
 
 ## Salut, je suis Zoroki110 👋
-
+**Jeune développeur C/C++ & explorateur Web3** 
 ### À propos
 J’ai commencé la Piscine de l’École 42 le 02 septembre 2024, terminé Cub3D en avril 2025, et je peaufine le C++ tout en explorant les subnets Bittensor sur l’écosystème TAO. Passionné par le code haute performance et les innovations Web3.
 
