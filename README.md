@@ -116,9 +116,8 @@ Passionate about high-performance code, Web3 innovations, and tackling complex c
 
 # 📫 Contact
 
-- **Email / Courriel** : ton.email@example.com  
+- **Email** : toiki.rouillard22@gmail.com  
 - **LinkedIn** : _(coming soon)_  
-- **Twitter** : [@Zoroki110](https://twitter.com/Zoroki110)
 
 ---
 
