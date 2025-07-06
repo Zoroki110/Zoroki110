@@ -107,8 +107,8 @@ Passionate about high-performance code, Web3 innovations, and tackling complex c
 | 🚧 Project       | 📝 Description                                                      | 🔗 Link         |
 |------------------|---------------------------------------------------------------------|-----------------|
 | 🐚 **Minishell** | Unix shell emulator: parsing, piping, signals, built-ins            | [Minishell](https://github.com/Zoroki110/Minishell)  |
-| 🎮 **Cub3D**     | 3D ray-caster in C: textures, sprites, minimap                      | `42/cub3D`      |
-| 🌐 **Webserv**   | Custom web server: GET/DELETE, CGI support, multi-client handling   | `42/webserv`    |
+| 🎮 **Cub3D**     | 3D ray-caster in C: textures, sprites, minimap                      | [Cub3D](https://github.com/Zoroki110/Cub3D)     |
+| 🌐 **Webserv**   | Custom web server: GET/DELETE, CGI support, multi-client handling   | [Webserv](https://github.com/Zoroki110/WebServ)    |
 
 > *Each project will get its own detailed README with setup, usage and challenges.*  
 
