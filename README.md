@@ -72,13 +72,17 @@ Passionné par le code haute performance, les innovations Web3 et prêt à relev
 
 <table>
   <tr>
-    <td width="100%" valign="top" style="padding:10px;">
+    <td width="50%" valign="top" style="padding:10px;">
       <h3 style="font-size:24px;">🌱 Currently Learning</h3>
       <ul style="font-size:18px; list-style-type:disc;">
         <li>Advanced C/C++ internals & optimizations</li>
         <li>Rust fundamentals & safe concurrency</li>
         <li>Building dApps on TAO & Bittensor</li>
       </ul>
+    </td>
+    <td width="50%" valign="top" style="padding:10px; text-align:center;">
+      <h3 style="font-size:24px;">📊 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
     </td>
   </tr>
 </table>
