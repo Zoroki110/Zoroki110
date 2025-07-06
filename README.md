@@ -4,8 +4,14 @@
 =============================== -->
 
 <p align="center">
-  <img src="./images/Github_Profile_Picture.jpeg" alt="Avatar" width="150" style="border-radius:50%; border:3px solid #8A2BE2;" />
+  <img 
+    src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" 
+    alt="Neon Arcade Scene" 
+    width="100%" 
+    style="max-width:885px; border-radius:12px;"
+  />
 </p>
+
 
 ---
 
