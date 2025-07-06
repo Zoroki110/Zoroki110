@@ -1,6 +1,6 @@
 <!-- README template for a 42 commoncore project -->
 
-# 🚧 minishell
+# 🚧 Exam02
 
 🎯 **Description**  
 _À compléter : bref résumé du projet, objectifs et spécificités._
@@ -13,11 +13,11 @@ _À compléter : bref résumé du projet, objectifs et spécificités._
 ## 🚀 Usage  
 ```bash
 # clone
-git clone https://github.com/Zoroki110/CommonCore/minishell
-cd minishell
+git clone https://github.com/Zoroki110/CommonCore/Exam02
+cd Exam02
 
 # compilation
 make
 
 # exécution
-./minishell [args…]
+./Exam02 [args…]
