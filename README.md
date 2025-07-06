@@ -70,23 +70,23 @@ J’ai commencé la Piscine de l’École 42 le 02 septembre 2024, terminé Cub3
 
 ## 🛠️ Compétences
 
-| Langages           | Outils & Frameworks      | Blockchain / Web3      |
-|--------------------|--------------------------|------------------------|
-| C / C++            | Git, Make, Bash          | Subnets Bittensor      |
-| Python (en apprentissage) | Docker, CGI, parsing HTTP | Écosystème TAO        |
-| Rust (en apprentissage)   |                          |                        |
+| 📝 Langages                | 🛠️ Outils & Frameworks           | 🔗 Blockchain / Web3      |
+|----------------------------|----------------------------------|---------------------------|
+| 🟦 C / C++                 | 📁 Git, 🛠️ Make, 🐚 Bash           | 🧩 Subnets Bittensor       |
+| 🐍 Python (en apprentissage) | 🐳 Docker, ⚙️ CGI, 🌐 parsing HTTP | 🚀 Écosystème TAO          |
+| 🦀 Rust (en apprentissage)   |                                  |                           |
 
 ---
 
 ## 🚀 Projets Phare
 
-| Projet      | Description                                                         | Lien           |
-|-------------|---------------------------------------------------------------------|----------------|
-| **Minishell** | Émulateur de shell Unix : parsing, piping, signaux, built-ins     | `42/minishell` |
-| **Cub3D**     | Ray-caster 3D en C : textures, sprites, minimap                   | `42/cub3D`     |
-| **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients        | `42/webserv`   |
+| 🚧 Projet        | 📝 Description                                                        | 🔗 Lien          |
+|------------------|-----------------------------------------------------------------------|------------------|
+| 🐚 **Minishell** | Émulateur de shell Unix : parsing, piping, signaux, built-ins        | `42/minishell`   |
+| 🎮 **Cub3D**     | Ray-caster 3D en C : textures, sprites, minimap                      | `42/cub3D`       |
+| 🌐 **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients           | `42/webserv`     |
 
-> *Chaque projet aura son propre README détaillé avec installation, usage et défis.*
+> *Chaque projet aura son propre README détaillé avec installation, usage et défis.*  
 
 ---
 
