@@ -14,7 +14,7 @@
 
 
 ---
-# Hi, I’m Trouilla! 👋  
+# Hi, I’m To'iki! 👋  
 🎓 Young C/C++ Developer & Web3 Explorer | Problem Solver
 
 ## 👋 About Me
@@ -61,10 +61,12 @@ Passionate about high-performance code, Web3 innovations, and tackling complex c
 
 # 🇫🇷 FRANÇAIS
 
-## Salut, je suis Zoroki110 👋
-**Jeune développeur C/C++ & explorateur Web3** 
-### À propos
-J’ai commencé la Piscine de l’École 42 le 02 septembre 2024, terminé Cub3D en avril 2025, et je peaufine le C++ tout en explorant les subnets Bittensor sur l’écosystème TAO. Passionné par le code haute performance et les innovations Web3.
+# Salut, je suis To'iki! 👋  
+🎓 Jeune développeur C/C++ & explorateur Web3 | Résolveur de problèmes
+
+## 👋 À propos de moi
+Je termine mon parcours à l’École 42 (Piscine commencée le 2 septembre 2024), où je maîtrise le C et le C++, tout en plongeant dans l’univers de la blockchain (subnets Bittensor sur l’écosystème TAO).  
+Passionné par le code haute performance, les innovations Web3 et prêt à relever des défis complexes.
 
 ---
 
