@@ -14,35 +14,34 @@
 
 
 ---
+# Hi, I’m Trouilla! 👋  
+🎓 Young C/C++ Developer & Web3 Explorer | Problem Solver
 
-# 🇬🇧 ENGLISH
-
-## Hi there, I’m Zoroki110 👋
-**Young Developer passionate about high-performance C/C++ & Web3**  
-### About Me
-I’m currently wrapping up my journey at École 42 (Piscine started on Sep 2, 2024), mastering C and C++, and diving into blockchain (Bittensor subnets on the TAO ecosystem). Passionate about high-performance code and Web3 innovations.
+## 👋 About Me
+I’m wrapping up my journey at École 42 (Piscine started Sep 2, 2024), mastering C and C++, and diving into the blockchain world (Bittensor subnets on the TAO ecosystem).  
+Passionate about high-performance code, Web3 innovations, and tackling complex challenges head-on.
 
 ---
 
 ## 🛠️ Skills
 
-| Languages           | Tools & Frameworks       | Blockchain / Web3      |
-|---------------------|--------------------------|------------------------|
-| C / C++             | Git, Make, Bash          | Bittensor subnets      |
-| Python (learning)   | Docker, CGI, HTTP parsing| TAO ecosystem          |
-| Rust (learning)     |                          |                        |
+| 📝 Languages         | 🛠️ Tools & Frameworks     | 🔗 Blockchain / Web3    |
+|----------------------|---------------------------|-------------------------|
+| 🟦 C / C++           | 📁 Git, 🛠️ Make, 🐚 Bash    | 🧩 Bittensor subnets     |
+| 🐍 Python (learning) | 🐳 Docker, ⚙️ CGI, 🌐 HTTP parsing | 🚀 TAO ecosystem        |
+| 🦀 Rust (learning)   |                           |                         |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project     | Description                                                         | Link           |
-|-------------|---------------------------------------------------------------------|----------------|
-| **Minishell** | Unix shell emulator: parsing, piping, signals, built-ins          | `42/minishell` |
-| **Cub3D**     | 3D ray-caster in C: textures, sprites, minimap                    | `42/cub3D`     |
-| **Webserv**   | Custom web server: GET/DELETE, CGI support, multi-client handling | `42/webserv`   |
+| 🚧 Project       | 📝 Description                                                      | 🔗 Link         |
+|------------------|---------------------------------------------------------------------|-----------------|
+| 🐚 **Minishell** | Unix shell emulator: parsing, piping, signals, built-ins            | `42/minishell`  |
+| 🎮 **Cub3D**     | 3D ray-caster in C: textures, sprites, minimap                      | `42/cub3D`      |
+| 🌐 **Webserv**   | Custom web server: GET/DELETE, CGI support, multi-client handling   | `42/webserv`    |
 
-> *Each project will get its own detailed README with setup, usage and challenges.*
+> *Each project will get its own detailed README with setup, usage and challenges.*  
 
 ---
 
