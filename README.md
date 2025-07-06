@@ -12,14 +12,33 @@
   />
 </p>
 
-
 ---
+
 # Hi, I’m To'iki! 👋  
 🎓 Young C/C++ Developer & Web3 Explorer | Problem Solver
 
 ## 👋 About Me
 I’m wrapping up my journey at École 42 (Piscine started Sep 2, 2024), mastering C and C++, and diving into the blockchain world (Bittensor subnets on the TAO ecosystem).  
 Passionate about high-performance code, Web3 innovations, and tackling complex challenges head-on.
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding:10px;">
+      <h3 style="font-size:24px;">🌱 Currently Learning</h3>
+      <ul style="font-size:18px; list-style-type:disc;">
+        <li>Advanced C/C++ internals & optimizations</li>
+        <li>Rust fundamentals & safe concurrency</li>
+        <li>Building dApps on TAO & Bittensor</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding:10px; text-align:center;">
+      <h3 style="font-size:24px;">📊 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,7 +80,7 @@ Passionate about high-performance code, Web3 innovations, and tackling complex c
 
 # 🇫🇷 FRANÇAIS
 
-# Salut, je suis To'iki! 👋  
+# Salut, je suis To'iki ! 👋  
 🎓 Jeune développeur C/C++ & explorateur Web3 | Résolveur de problèmes
 
 ## 👋 À propos de moi
@@ -73,16 +92,16 @@ Passionné par le code haute performance, les innovations Web3 et prêt à relev
 <table>
   <tr>
     <td width="50%" valign="top" style="padding:10px;">
-      <h3 style="font-size:24px;">🌱 Currently Learning</h3>
+      <h3 style="font-size:24px;">🌱 En apprentissage</h3>
       <ul style="font-size:18px; list-style-type:disc;">
-        <li>Advanced C/C++ internals & optimizations</li>
-        <li>Rust fundamentals & safe concurrency</li>
-        <li>Building dApps on TAO & Bittensor</li>
+        <li>Internals et optimisations avancées en C/C++</li>
+        <li>Fondamentaux de Rust & concurrence sécurisée</li>
+        <li>Développement de dApps sur TAO & Bittensor</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding:10px; text-align:center;">
-      <h3 style="font-size:24px;">📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
+      <h3 style="font-size:24px;">📊 Langages les plus utilisés</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr&card_width=400" alt="Langages principaux" />
     </td>
   </tr>
 </table>
@@ -115,7 +134,7 @@ Passionné par le code haute performance, les innovations Web3 et prêt à relev
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zoroki110&show_icons=true&theme=radical&locale=fr" alt="Stats FR" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr" alt="Top Langs FR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr" alt="Langages principaux FR" />
 </p>
 
 <p align="center">
@@ -137,19 +156,3 @@ Passionné par le code haute performance, les innovations Web3 et prêt à relev
   <em>“Code hard, play harder.”</em><br/>
   <em>« Code avec passion, innove sans limite. »</em>
 </p>
-
-
-<!--
-**Zoroki110/Zoroki110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
