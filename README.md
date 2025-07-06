@@ -64,20 +64,6 @@ Passionate about high-performance code, Web3 innovations, and tackling complex c
 
 ---
 
-## 📊 GitHub Stats & Badges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoroki110&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zoroki110.Zoroki110" alt="visitor badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/Zoroki110?color=purple" alt="commit activity" />
-</p>
-
----
-
 # 🇫🇷 FRANÇAIS
 
 # Salut, je suis To'iki ! 👋  
@@ -127,20 +113,6 @@ Passionné par le code haute performance, les innovations Web3 et prêt à relev
 | 🌐 **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients           | `42/webserv`     |
 
 > *Chaque projet aura son propre README détaillé avec installation, usage et défis.*  
-
----
-
-## 📊 Statistiques & Badges
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoroki110&show_icons=true&theme=radical&locale=fr" alt="Stats FR" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr" alt="Langages principaux FR" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zoroki110.Zoroki110&locale=fr" alt="badge visiteurs" />
-  <img src="https://img.shields.io/github/commit-activity/m/Zoroki110?color=purple" alt="activité commits" />
-</p>
 
 ---
 
