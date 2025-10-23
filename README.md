@@ -27,7 +27,7 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
 <table>
   <tr>
     <td width="50%" valign="top" style="padding:10px;">
-      <h3 style="font-size:24px;">⚡ Developer Energy</h3>
+      <h3 style="font-size:24px;">Developer Energy</h3>
       <ul style="font-size:18px; list-style-type:disc;">
         <li>Crafting backend architectures with precision</li>
         <li>Obsessed with clean code and system performance</li>
@@ -35,7 +35,7 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
       </ul>
     </td>
     <td width="50%" valign="top" style="padding:10px; text-align:center;">
-      <h3 style="font-size:24px;">📊 Most Used Languages</h3>
+      <h3 style="font-size:24px;">Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
     </td>
   </tr>
@@ -45,12 +45,12 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
 
 ## 🚀 Featured Projects
 
-| 🚧 Project           | 📝 Description                                                        | 🔗 Link         |
+|   Project           |   Description                                                        |   Link         |
 |----------------------|-----------------------------------------------------------------------|-----------------|
-| 🐚 **Minishell**     | Unix shell emulator: parsing, piping, signals, built-ins              | [Minishell](https://github.com/Zoroki110/Minishell)  |
-| 🎮 **Cub3D**         | 3D ray-caster in C: textures, sprites, minimap                        | [Cub3D](https://github.com/Zoroki110/Cub3D)     |
-| 🌐 **Webserv**       | Custom web server: GET/DELETE, CGI support, multi-client handling     | [Webserv](https://github.com/Zoroki110/WebServ)    |
-| 🏓 **ft_transcendence** | Full-stack real-time web app: NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
+|   **Minishell**     | Unix shell emulator: parsing, piping, signals, built-ins              | [Minishell](https://github.com/Zoroki110/Minishell)  |
+|   **Cub3D**         | 3D ray-caster in C: textures, sprites, minimap                        | [Cub3D](https://github.com/Zoroki110/Cub3D)     |
+|   **Webserv**       | Custom web server: GET/DELETE, CGI support, multi-client handling     | [Webserv](https://github.com/Zoroki110/WebServ)    |
+|   **ft_transcendence** | Full-stack real-time web app: NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
 
 > *Each project will get its own detailed README with setup, usage and challenges.*  
 
@@ -69,7 +69,7 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
 <table>
   <tr>
     <td width="50%" valign="top" style="padding:10px;">
-      <h3 style="font-size:24px;">⚡ Esprit développeur</h3>
+      <h3 style="font-size:24px;"> Esprit développeur</h3>
       <ul style="font-size:18px; list-style-type:disc;">
         <li>Conception d’architectures backend robustes</li>
         <li>Recherche constante de propreté et performance du code</li>
@@ -77,7 +77,7 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
       </ul>
     </td>
     <td width="50%" valign="top" style="padding:10px; text-align:center;">
-      <h3 style="font-size:24px;">📊 Langages les plus utilisés</h3>
+      <h3 style="font-size:24px;"> Langages les plus utilisés</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr&card_width=400" alt="Langages principaux" />
     </td>
   </tr>
@@ -87,12 +87,12 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
 
 ## 🚀 Projets Phare
 
-| 🚧 Projet        | 📝 Description                                                        | 🔗 Lien          |
+|   Projet        |   Description                                                        |   Lien          |
 |------------------|-----------------------------------------------------------------------|------------------|
-| 🐚 **Minishell** | Émulateur de shell Unix : parsing, piping, signaux, built-ins        | [Minishell](https://github.com/Zoroki110/Minishell)   |
-| 🎮 **Cub3D**     | Ray-caster 3D en C : textures, sprites, minimap                      | [Cub3D](https://github.com/Zoroki110/Cub3D)       |
-| 🌐 **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients           | [Webserv](https://github.com/Zoroki110/WebServ)    |
-| 🏓 **ft_transcendence** | Application web temps réel : NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
+|   **Minishell** | Émulateur de shell Unix : parsing, piping, signaux, built-ins        | [Minishell](https://github.com/Zoroki110/Minishell)   |
+|   **Cub3D**     | Ray-caster 3D en C : textures, sprites, minimap                      | [Cub3D](https://github.com/Zoroki110/Cub3D)       |
+|   **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients           | [Webserv](https://github.com/Zoroki110/WebServ)    |
+|   **ft_transcendence** | Application web temps réel : NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
 
 > *Chaque projet aura son propre README détaillé avec installation, usage et défis.*  
 
@@ -101,7 +101,7 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
 # 📫 Contact
 
 - **Email** : toiki.rouillard22@gmail.com  
-- **LinkedIn** : _(coming soon)_  
+- **LinkedIn** : _(never coming soon)_  
 
 ---
 
