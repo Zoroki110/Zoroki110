@@ -18,7 +18,7 @@
 🎓 Finisher of 42 School Belgium | C/C++ | DAML | PostgreSQL | TypeScript | Java Developer  
 
 ## 👋 About Me
-Finisher of **École 42 Belgium**, mastering **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
+Finisher of **42 Belgium**, mastering **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
 Currently developing an app on the **Canton Network**, exploring **crypto and Web3 ecosystems**.  
 Still passionate about **high-performance code**, **innovation**, and tackling **complex technical challenges**.
 
@@ -60,7 +60,7 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
 🎓 Diplômé de 42 School Belgium | C/C++ | DAML | PostgreSQL | TypeScript | Java  
 
 ## 👋 À propos de moi
-Finisher de **l’École 42 Belgique**, maîtrisant **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
+Finisher de **42 Belgique**, maîtrisant **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
 Actuellement en train de développer une application sur le **Canton Network** et de plonger dans l’univers **crypto & Web3**.  
 Toujours passionné par le **code haute performance**, **l’innovation** et les **défis techniques complexes**.
 
