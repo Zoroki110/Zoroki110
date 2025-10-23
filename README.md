@@ -15,10 +15,10 @@
 ---
 
 # Hi, I’m To'iki! 🇬🇧  
-🎓 Finisher of 42 School Belgium | C/C++ | DAML | PostgreSQL | TypeScript | Java Developer  
+🎓 Graduated from 42 School Belgium Developer Full-Stack specialised in C/C++ | DAML | PostgreSQL | TypeScript | Java | 
 
 ## 👋 About Me
-Finisher of **42 Belgium**, mastering **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
+Graduated from **42 Belgium**, Developer Full-Stack mastering **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
 Currently developing an app on the **Canton Network**, exploring **crypto and Web3 ecosystems**.  
 Still passionate about **high-performance code**, **innovation**, and tackling **complex technical challenges**.
 
@@ -57,10 +57,10 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
 ---
 
 # Salut, je suis To'iki ! 🇫🇷  
-🎓 Diplômé de 42 School Belgium | C/C++ | DAML | PostgreSQL | TypeScript | Java  
+🎓 Diplômé de 42 School Belgium Développeur Full-Stack maîtrisant C/C++ | DAML | PostgreSQL | TypeScript | Java | 
 
 ## 👋 À propos de moi
-Finisher de **42 Belgique**, maîtrisant **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
+Finisher de **42 Belgique**, Développeur Full-Stack maîtrisant **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
 Actuellement en train de développer une application sur le **Canton Network** et de plonger dans l’univers **crypto & Web3**.  
 Toujours passionné par le **code haute performance**, **l’innovation** et les **défis techniques complexes**.
 
@@ -100,7 +100,9 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
 
 # 📫 Contact
 
-- **Email** : toiki.rouillard22@gmail.com  
+- **Email** : toiki.rouillard22@gmail.com
+- **Discord** : zoroki110
+- **Telegram** : To’iki Rouillard
 - **LinkedIn** : _(never coming soon)_  
 
 ---
