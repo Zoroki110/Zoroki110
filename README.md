@@ -34,10 +34,6 @@ Still passionate about **high-performance code**, **innovation**, and tackling *
         <li>Learning by building, breaking, and rebuilding</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="padding:10px; text-align:center;">
-      <h3 style="font-size:24px;">Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&card_width=400" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
@@ -75,10 +71,6 @@ Toujours passionné par le **code haute performance**, **l’innovation** et les
         <li>Recherche constante de propreté et performance du code</li>
         <li>Apprendre en construisant, cassant et reconstruisant</li>
       </ul>
-    </td>
-    <td width="50%" valign="top" style="padding:10px; text-align:center;">
-      <h3 style="font-size:24px;"> Langages les plus utilisés</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&theme=radical&locale=fr&card_width=400" alt="Langages principaux" />
     </td>
   </tr>
 </table>
