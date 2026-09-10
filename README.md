@@ -69,8 +69,8 @@ const dev = {
 | Projet | Description | Stack |
 |---|---|---|
 | **DEX sur Canton Network** | Échange décentralisé : smart contracts, backend, validateur opéré en production. Seul développeur. Dépôt privé. | `DAML` `Java` `TypeScript` `PostgreSQL` |
-| **Bittensor, Subnet 81** | Mécanismes d'incitation et compétitivité d'un miner. Travail en cours, dépôt privé. | `Python` `Bittensor` |
-| **Bittensor, Subnet 54** | Opération de miners, été 2025. Dépôt privé. | `Python` `Bittensor` |
+| **Bittensor, Subnet 81** | Entraînement décentralisé par GRPO : les miners cherchent les prompts à la frontière d'apprentissage du modèle, le validateur vérifie chaque groupe de rollouts, et seuls les groupes retenus entraînent le checkpoint suivant. Dépôt privé. | `Python` `Bittensor` |
+| **Bittensor, Subnet 54** | Génération d'identités synthétiques adversariales pour tester les systèmes de détection de fraude, de criblage de sanctions et de lutte anti blanchiment. Dépôt privé. | `Python` `Bittensor` |
 
 ### Système et réseau, 42
 
@@ -95,15 +95,6 @@ const dev = {
 | **42 Belgique** | Common Core : C, C++, système, réseau, concurrence |
 | _(à compléter)_ | _Certification visée, date_ |
 | _(à compléter)_ | _Certification visée, date_ |
-
-## Activité
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zoroki110&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C5CFF&icon_color=7C5CFF&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" height="165"/>
-
-</div>
 
 ## Contact
 
