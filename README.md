@@ -39,27 +39,27 @@ const dev = {
 
 ### Blockchain et systèmes distribués
 
-<img src="https://img.shields.io/badge/DAML-3C5280?style=for-the-badge&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Canton_Network-1B2A4A?style=for-the-badge&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Bittensor-00B8D4?style=for-the-badge&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/DAML-3C5280?style=for-the-badge&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Canton_Network-1B2A4A?style=for-the-badge&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Bittensor-00B8D4?style=for-the-badge&logoColor=white" height="52"/>
 
 ### Langages
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="52"/>
 
 ### Infrastructure
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="42"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="52"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="52"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="52"/>
 
 </div>
 
@@ -101,6 +101,6 @@ const dev = {
 
 <div align="center">
 
-<a href="mailto:toiki.rouillard22@gmail.com"><img src="https://img.shields.io/badge/Email-me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
+<a href="mailto:toiki.rouillard22@gmail.com"><img src="https://img.shields.io/badge/Email-me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="52"/></a>
 
 </div>
