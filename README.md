@@ -1,105 +1,114 @@
-<!-- ============================
-     GitHub Profile README
-     Neon Violet Arcade Style
-=============================== -->
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" 
-    alt="Neon Arcade Scene" 
-    width="100%" 
-    style="max-width:885px; border-radius:12px;"
-  />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=820&lines=Finisher+42+Belgique+%7C+C+%2F+C%2B%2B+%2F+DAML+%2F+TypeScript;Seul+développeur+d'un+DEX+sur+Canton+Network;Aujourd'hui+:+réseaux+d'incitation+décentralisés;Descendre+sous+les+abstractions%2C+pas+les+empiler)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Zoroki110-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zoroki110)
+![Profile Views](https://komarev.com/ghpvc/?username=Zoroki110&color=7C5CFF&style=flat)
 
-# Hi, I’m To'iki! 🇬🇧  
-🎓 Graduated from 42 School Belgium Developer Full-Stack specialised in C/C++ | DAML | PostgreSQL | TypeScript | Java | 
+</div>
 
-## 👋 About Me
-Graduated from **42 Belgium**, Developer Full-Stack mastering **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
-Currently developing an app on the **Canton Network**, exploring **crypto and Web3 ecosystems**.  
-Still passionate about **high-performance code**, **innovation**, and tackling **complex technical challenges**.
+## À propos
 
----
+**Finisher de 42 Belgique.** Développeur système devenu développeur distribué : **C / C++ / DAML / Java / TypeScript / PostgreSQL**.
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="padding:10px;">
-      <h3 style="font-size:24px;">Developer Energy</h3>
-      <ul style="font-size:18px; list-style-type:disc;">
-        <li>Crafting backend architectures with precision</li>
-        <li>Obsessed with clean code and system performance</li>
-        <li>Learning by building, breaking, and rebuilding</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Seul développeur d'un DEX sur Canton Network**, à la sortie de l'école. Smart contracts en DAML, backend Java et TypeScript, base PostgreSQL, validateur opéré en production. J'ai tout tenu, du contrat au serveur.
 
----
+**Aujourd'hui je travaille sur les réseaux d'incitation décentralisés**, Bittensor en tête. Comment un réseau paie une contribution utile, et comment on devient compétitif dessus.
 
-## 🚀 Featured Projects
+Avant tout ça : un shell Unix, un moteur 3D et un serveur HTTP écrits from scratch, en C. **Je préfère savoir ce qu'il y a en dessous.**
 
-|   Project           |   Description                                                        |   Link         |
-|----------------------|-----------------------------------------------------------------------|-----------------|
-|   **Minishell**     | Unix shell emulator: parsing, piping, signals, built-ins              | [Minishell](https://github.com/Zoroki110/Minishell)  |
-|   **Cub3D**         | 3D ray-caster in C: textures, sprites, minimap                        | [Cub3D](https://github.com/Zoroki110/Cub3D)     |
-|   **Webserv**       | Custom web server: GET/DELETE, CGI support, multi-client handling     | [Webserv](https://github.com/Zoroki110/WebServ)    |
-|   **ft_transcendence** | Full-stack real-time web app: NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
+```javascript
+const dev = {
+    nom:          "To'iki",
+    parcours:     ["42 Belgique", "DEX sur Canton Network", "Bittensor"],
+    focus:        ["Réseaux d'incitation", "Systèmes distribués", "Opération de nœuds"],
+    langages: {
+        socle:    ["C", "C++", "Bash"],
+        métier:   ["DAML", "TypeScript", "Java"],
+        courant:  ["Python", "SQL"]
+    },
+    infra:        ["Debian/Ubuntu", "systemd", "Nginx", "PostgreSQL"],
+    outils:       ["Git", "Vim", "Obsidian", "Claude", "Agents LLM"],
+    actuel:       ["Bittensor", "Mécanismes d'incitation", "Sécurité offensive"]
+};
+```
 
-> *Each project will get its own detailed README with setup, usage and challenges.*  
+## Stack technique
 
----
+<div align="center">
 
-# Salut, je suis To'iki ! 🇫🇷  
-🎓 Diplômé de 42 School Belgium Développeur Full-Stack maîtrisant C/C++ | DAML | PostgreSQL | TypeScript | Java | 
+### Blockchain et systèmes distribués
 
-## 👋 À propos de moi
-Finisher de **42 Belgique**, Développeur Full-Stack maîtrisant **C / C++ / DAML / PostgreSQL / TypeScript / Java**.  
-Actuellement en train de développer une application sur le **Canton Network** et de plonger dans l’univers **crypto & Web3**.  
-Toujours passionné par le **code haute performance**, **l’innovation** et les **défis techniques complexes**.
+![DAML](https://img.shields.io/badge/DAML-3C5280?style=for-the-badge&logoColor=white)
+![Canton](https://img.shields.io/badge/Canton_Network-1B2A4A?style=for-the-badge&logoColor=white)
+![Bittensor](https://img.shields.io/badge/Bittensor-00B8D4?style=for-the-badge&logoColor=white)
 
----
+### Langages
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="padding:10px;">
-      <h3 style="font-size:24px;"> Esprit développeur</h3>
-      <ul style="font-size:18px; list-style-type:disc;">
-        <li>Conception d’architectures backend robustes</li>
-        <li>Recherche constante de propreté et performance du code</li>
-        <li>Apprendre en construisant, cassant et reconstruisant</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
+### Infrastructure
 
-## 🚀 Projets Phare
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-|   Projet        |   Description                                                        |   Lien          |
-|------------------|-----------------------------------------------------------------------|------------------|
-|   **Minishell** | Émulateur de shell Unix : parsing, piping, signaux, built-ins        | [Minishell](https://github.com/Zoroki110/Minishell)   |
-|   **Cub3D**     | Ray-caster 3D en C : textures, sprites, minimap                      | [Cub3D](https://github.com/Zoroki110/Cub3D)       |
-|   **Webserv**   | Serveur web perso : GET/DELETE, support CGI, multi-clients           | [Webserv](https://github.com/Zoroki110/WebServ)    |
-|   **ft_transcendence** | Application web temps réel : NestJS, PostgreSQL, WebSocket, OAuth2 | [ft_transcendence](https://github.com/Zoroki110/ft_transcendence) |
+</div>
 
-> *Chaque projet aura son propre README détaillé avec installation, usage et défis.*  
+## Projets
 
----
+### Blockchain
 
-# 📫 Contact
+| Projet | Description | Stack |
+|---|---|---|
+| **DEX sur Canton Network** | Échange décentralisé : smart contracts, backend, validateur opéré en production. Seul développeur. Dépôt privé. | `DAML` `Java` `TypeScript` `PostgreSQL` |
+| **Bittensor, Subnet 81** | Mécanismes d'incitation et compétitivité d'un miner. Travail en cours, dépôt privé. | `Python` `Bittensor` |
+| **Bittensor, Subnet 54** | Opération de miners, été 2025. Dépôt privé. | `Python` `Bittensor` |
 
-- **Email** : toiki.rouillard22@gmail.com
-- **Discord** : zoroki110
-- **Telegram** : To’iki Rouillard
-- **LinkedIn** : _(never coming soon)_  
+### Système et réseau, 42
 
----
+| Projet | Description | Stack |
+|---|---|---|
+| **[WebServ](https://github.com/Zoroki110/WebServ)** | Serveur HTTP/1.1 from scratch : GET, POST, DELETE, CGI, multi clients non bloquant | `C++98` `poll()` |
+| **[Minishell](https://github.com/Zoroki110/Minishell)** | Émulateur de shell Unix : parsing, pipes, redirections, signaux, built ins | `C` `POSIX` |
+| **[Cub3D](https://github.com/Zoroki110/Cub3D)** | Moteur 3D en ray casting : textures, sprites, minimap | `C` `MiniLibX` |
+| **[Philosophers](https://github.com/Zoroki110/Philosophers)** | Concurrence : threads, mutex, famine | `C` `pthread` |
+| **[Push_Swap](https://github.com/Zoroki110/Push_Swap)** | Tri sous contrainte d'opérations, optimisation du nombre de coups | `C` `Algorithmie` |
 
-<p align="center">
-  <em>“Code hard, play harder.”</em><br/>
-  <em>« Code avec passion, innove sans limite. »</em>
-</p>
+### Web
+
+| Projet | Description | Stack |
+|---|---|---|
+| **[ft_transcendence](https://github.com/Zoroki110/ft_transcendence_final)** | Application temps réel : jeu multijoueur, tournois, OAuth2, 2FA | `NestJS` `PostgreSQL` `WebSocket` |
+
+## Formation et certifications
+
+| | |
+|---|---|
+| **42 Belgique** | Common Core : C, C++, système, réseau, concurrence |
+| _(à compléter)_ | _Certification visée, date_ |
+| _(à compléter)_ | _Certification visée, date_ |
+
+## Activité
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zoroki110&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C5CFF&icon_color=7C5CFF&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoroki110&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" height="165"/>
+
+</div>
+
+## Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toiki.rouillard22@gmail.com)
+
+</div>
