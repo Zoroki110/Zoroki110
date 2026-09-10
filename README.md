@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=820&lines=Finisher+42+Belgique+%7C+C+%2F+C%2B%2B+%2F+DAML+%2F+TypeScript;Seul+développeur+d'un+DEX+sur+Canton+Network;Aujourd'hui+:+réseaux+d'incitation+décentralisés;Descendre+sous+les+abstractions%2C+pas+les+empiler)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zoroki110-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zoroki110)
-![Profile Views](https://komarev.com/ghpvc/?username=Zoroki110&color=7C5CFF&style=flat)
+<a href="https://github.com/Zoroki110"><img src="https://img.shields.io/badge/GitHub-Zoroki110-181717?style=flat&logo=github&logoColor=white" height="26"/></a>
+<img src="https://komarev.com/ghpvc/?username=Zoroki110&color=7C5CFF&style=flat" height="26"/>
 
 </div>
 
@@ -27,7 +27,7 @@ const dev = {
         métier:   ["DAML", "TypeScript", "Java"],
         courant:  ["Python", "SQL"]
     },
-    infra:        ["Debian/Ubuntu", "systemd", "Nginx", "PostgreSQL"],
+    infra:        ["Debian/Ubuntu", "Docker", "systemd", "Nginx", "PostgreSQL"],
     outils:       ["Git", "Vim", "Obsidian", "Claude", "Agents LLM"],
     actuel:       ["Bittensor", "Mécanismes d'incitation", "Sécurité offensive"]
 };
@@ -39,26 +39,27 @@ const dev = {
 
 ### Blockchain et systèmes distribués
 
-![DAML](https://img.shields.io/badge/DAML-3C5280?style=for-the-badge&logoColor=white)
-![Canton](https://img.shields.io/badge/Canton_Network-1B2A4A?style=for-the-badge&logoColor=white)
-![Bittensor](https://img.shields.io/badge/Bittensor-00B8D4?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/DAML-3C5280?style=for-the-badge&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Canton_Network-1B2A4A?style=for-the-badge&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Bittensor-00B8D4?style=for-the-badge&logoColor=white" height="42"/>
 
 ### Langages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="42"/>
 
 ### Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="42"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="42"/>
 
 </div>
 
@@ -86,7 +87,7 @@ const dev = {
 
 | Projet | Description | Stack |
 |---|---|---|
-| **[ft_transcendence](https://github.com/Zoroki110/ft_transcendence_final)** | Application temps réel : jeu multijoueur, tournois, OAuth2, 2FA | `NestJS` `PostgreSQL` `WebSocket` |
+| **[ft_transcendence](https://github.com/Zoroki110/ft_transcendence_final)** | Application temps réel : jeu multijoueur, tournois, OAuth2, 2FA | `NestJS` `PostgreSQL` `Docker` `WebSocket` |
 
 ## Formation et certifications
 
@@ -100,6 +101,6 @@ const dev = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toiki.rouillard22@gmail.com)
+<a href="mailto:toiki.rouillard22@gmail.com"><img src="https://img.shields.io/badge/Email-me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
 
 </div>
