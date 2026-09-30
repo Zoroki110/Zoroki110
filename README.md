@@ -13,6 +13,7 @@
 
 **Seul développeur d'un DEX sur Canton Network**, à la sortie de l'école. Smart contracts en DAML, backend Java et TypeScript, base PostgreSQL, validateur opéré en production. J'ai tout tenu, du contrat au serveur.
 > **Le code est en ligne :** [`Zoroki110/helvetswap`](https://github.com/Zoroki110/helvetswap) extrait de référence, publié à l'arrêt du projet.
+
 **Aujourd'hui je travaille sur les réseaux d'incitation décentralisés**, Bittensor en tête. Comment un réseau paie une contribution utile, et comment on devient compétitif dessus.
 
 Avant tout ça : un shell Unix, un moteur 3D et un serveur HTTP écrits from scratch, en C. **Je préfère savoir ce qu'il y a en dessous.**
