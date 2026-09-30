@@ -12,7 +12,7 @@
 **Finisher de 42 Belgique.** Développeur système devenu développeur distribué : **C / C++ / DAML / Java / TypeScript / PostgreSQL**.
 
 **Seul développeur d'un DEX sur Canton Network**, à la sortie de l'école. Smart contracts en DAML, backend Java et TypeScript, base PostgreSQL, validateur opéré en production. J'ai tout tenu, du contrat au serveur.
-
+> **Le code est en ligne :** [`Zoroki110/helvetswap`](https://github.com/Zoroki110/helvetswap) extrait de référence, publié à l'arrêt du projet.
 **Aujourd'hui je travaille sur les réseaux d'incitation décentralisés**, Bittensor en tête. Comment un réseau paie une contribution utile, et comment on devient compétitif dessus.
 
 Avant tout ça : un shell Unix, un moteur 3D et un serveur HTTP écrits from scratch, en C. **Je préfère savoir ce qu'il y a en dessous.**
@@ -69,7 +69,7 @@ const dev = {
 
 | Projet | Description | Stack |
 |---|---|---|
-| **DEX sur Canton Network** | Échange décentralisé : smart contracts, backend, validateur opéré en production. Seul développeur. Dépôt privé. | `DAML` `Java` `TypeScript` `PostgreSQL` |
+| **[DEX sur Canton Network](https://github.com/Zoroki110/helvetswap)** | Échange décentralisé : smart contracts DAML, backend Java, frontend TypeScript, validateur opéré en production. Seul développeur, de zéro jusqu'au mainnet. **Code publié, projet arrêté et non maintenu.** | `DAML` `Java` `TypeScript` `PostgreSQL` |
 | **Bittensor, Subnet 81** | Entraînement décentralisé par GRPO : les miners cherchent les prompts à la frontière d'apprentissage du modèle, le validateur vérifie chaque groupe de rollouts, et seuls les groupes retenus entraînent le checkpoint suivant. Dépôt privé. | `Python` `Bittensor` |
 | **Bittensor, Subnet 54** | Génération d'identités synthétiques adversariales pour tester les systèmes de détection de fraude, de criblage de sanctions et de lutte anti blanchiment. Dépôt privé. | `Python` `Bittensor` |
 
